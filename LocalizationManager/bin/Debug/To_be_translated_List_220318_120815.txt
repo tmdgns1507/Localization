@@ -1,0 +1,23 @@
+[TBT List]
+[Localization_AAA] Add : 522, Fix : 0
+[Localization_BBBBBBB] Add : 522, Fix : 0
+[Localization_Conversation] Add : 703, Fix : 233
+[Localization_Conversation1] Add : 315, Fix : 207
+[Localization_Conversation2] Add : 814, Fix : 129
+[Localization_Conversation3] Add : 321, Fix : 225
+[Localization_Conversation4] Add : 584, Fix : 141
+[Localization_Conversation5] Add : 350, Fix : 150
+[Localization_Conversation6] Add : 483, Fix : 196
+[Localization_ConversationSubstory] Add : 999, Fix : 0
+[Localization_Event] Add : 0, Fix : 169
+[Localization_Hero] Add : 0, Fix : 2286
+[Localization_Item] Add : 48, Fix : 3700
+[Localization_Keyword] Add : 0, Fix : 532
+[Localization_Message] Add : 0, Fix : 819
+[Localization_Misc] Add : 134, Fix : 0
+[Localization_Monster] Add : 1, Fix : 760
+[Localization_Quest] Add : 21, Fix : 940
+[Localization_ResponseResult] Add : 0, Fix : 170
+[Localization_Skill] Add : 712, Fix : 4005
+[Localization_Tutorial] Add : 396, Fix : 388
+[Localization_UI] Add : 96, Fix : 4077
